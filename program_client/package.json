@@ -3,9 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "license": "Unlicense",
-
-
   "dependencies": {
+    "@solana/spl-token": "^0.3.8",
     "@solana/web3.js": "^1.78.3",
     "borsh": "^1.0.0",
     "typescript": "^5.1.6"
