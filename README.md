@@ -25,7 +25,7 @@ solana program deploy target/deploy/nft.so
 ```
 Write down the ProgramId from the output of the deployment
 ```
-cc ../program_client
+cd ../program_client
 yarn install
 npx ts-node app.ts <YOUR_PROGRAM_ID>
 ```
